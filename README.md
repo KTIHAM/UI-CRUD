@@ -1,5 +1,4 @@
-Hi there!!!
-Thanks for visiting my Project...
+The Project is done during an Internship Programme, in SkyLark Softwares Limited.
 
 This is a User Interface for DBMS. You as a user can insert, update or delete any employee data through the module.
 I did this project during my 3-2 semester Internship. 
